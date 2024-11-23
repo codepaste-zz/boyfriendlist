@@ -1,10 +1,9 @@
 # Boyfriend List
 
 Submit a PR with a link to your twitch or github handle to join the boyfriend list. You must have a number next to your name. PR Number = Boyfriend Number. No Deleting other boyfriends.
-
+1. [Goblin_Wars] (https://twitch.tv/goblin_wars)
 1. [0xTib3rius](https://x.com/0xTib3rius)
 1. [robot_with_ahat](https://twitch.tv/robot_with_ahat)
-1. [SamCurtisD](https://twitch.tv/SamCurtisD)
 1. [tiredbeaver](https://twitch.tv/tiredbeaver)
 1. [Igor](https://github.com/igorbrigadir)
 1. [biggie013](https://twitch.tv/biggie013)
